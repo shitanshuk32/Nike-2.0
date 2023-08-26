@@ -1,18 +1,29 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+# Nike 2.0
 
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+Nike 2.0, is a stunning and fully responsive website that seamlessly blends cutting-edge technologies with elegant design. Through the innovative use of Vite and the power of Tailwind CSS, I've crafted an immersive digital space that adapts flawlessly across devices.
 
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+## Key Features
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+- Blazing-fast development with Vite.
+- Consistent and efficient styling using Tailwind CSS.
+- Aesthetic excellence and attention to detail for an engaging user interface.
+- Complete responsiveness to ensure a flawless experience across devices.
+
+
+## Technologies Used
+
+- **Vite:** [Vite](https://vitejs.dev/) is used for fast and efficient development.
+- **Tailwind CSS:** [Tailwind CSS](https://tailwindcss.com/) simplifies styling and ensures responsiveness.
+
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/yourusername/your-project.git`
+2. Navigate to the project directory: `cd your-project`
+3. Install dependencies: `npm install` or `yarn install`
+
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) during the contribution process.
+
+## License
+
+This project is licensed under the [License Name] License. See the [LICENSE](LICENSE) file for details.
